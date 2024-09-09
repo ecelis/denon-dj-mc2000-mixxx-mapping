@@ -1,9 +1,9 @@
 /**
- * Denon MC2000 controller script for Mixxx v2.4.0
+ * Denon DJ MC2000 controller script for Mixxx v1.12.0+
  *
- * Written by Esteban Serrano Roloff with updates by Ernesto Celis.
+ * Written by Esteban Serrano Roloff updates by Ernesto Celis.
  *
- * 2024/09/08 V0.8.1 :	Updated for Mixxx 2.4.0 by Ernesto Celis.
+ * 2024/09/08 v0.8.1:	Updated to Mixxx 1.12.0+
  * 2014/03/2 V0.6.2 :	Functional & relatively untested version.
  *			Bug where play control would	become unresponsive after pressing hotcues fixed.
  *
