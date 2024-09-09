@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<MixxxControllerPreset mixxxVersion="1.11.0" schemaVersion="1">
+<MixxxControllerPreset mixxxVersion="2.4.0" schemaVersion="1">
     <info>
-        <name>Denon MC2000 v0.8</name>
+        <name>Denon MC2000 v0.8.1</name>
         <author>Esteban Serrano Roloff</author>
-        <description>Most functions from the Function Table for the Denon MC2000 controller.</description>
+        <description>Most functions from the Function Table for the Denon MC2000 controller. With updates by E. Celis</description>
     </info>
     <controller id="MC2000">
         <scriptfiles>
-            <file functionprefix="mc2000" filename="MC2000_MIDI_1.js"/>
+            <file functionprefix="mc2000" filename="MC2000_MIDI_1.scripts.js"/>
         </scriptfiles>
         <controls>
             <control>
